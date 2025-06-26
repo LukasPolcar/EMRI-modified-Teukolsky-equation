@@ -1,5 +1,7 @@
 # Modified Teukolsky Equation for EMRIs in Matter Environments
 
+![EMRI in environment](deformedringwaves.png)
+
 Computational supplementary material for the paper **"Towards relativistic inspirals into black holes surrounded by matter"** by Lukáš Polcar and Vojtěch Witzany (2025), ArXiv: 2507.XXXXX.
 
 ## Repository Contents
