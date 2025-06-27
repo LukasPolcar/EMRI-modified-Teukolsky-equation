@@ -29,7 +29,31 @@ Background spacetime derivation using Israel junction conditions to match linear
 
 ### Datasets
 
-*[Dataset descriptions to be added]*
+In addition to the four Mathematica notebooks, this supplemental material includes a collection of dataset files containing precomputed amplitudes of the forcing terms in the perturbed geodesic equation of the ring. These files are used by the notebook Sourceincoordinates.nb to avoid recomputation during evaluation.
+
+Each dataset file is named according to the orbital parameters of the point particle and the radius 
+𝑟
+r of the ring, using the format:
+
+php-template
+Zkopírovat
+Upravit
+i<inclination>_p<semilatus rectum>_e<eccentricity>_r<radius>.dat
+For example, the file i0.5_p12.0_e0_r20.0.dat corresponds to a particle orbit with inclination 0.5, semilatus rectum 12.0, eccentricity 0, and ring radius 20.0.
+
+Each line in the file contains the following data:
+
+Mode numbers 
+𝑚
+m, 
+𝑛
+n, and 
+𝑘
+k
+
+The corresponding mode frequency
+
+The complex amplitudes of the four components of the source in the perturbed geodesic equation, given in the order: real part and imaginary part of each amplitude
 
 ## Citation
 
