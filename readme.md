@@ -35,10 +35,8 @@ Each dataset file is named according to the orbital parameters of the point part
 𝑟
 r of the ring, using the format:
 
-php-template
-Zkopírovat
-Upravit
 i<inclination>_p<semilatus rectum>_e<eccentricity>_r<radius>.dat
+
 For example, the file i0.5_p12.0_e0_r20.0.dat corresponds to a particle orbit with inclination 0.5, semilatus rectum 12.0, eccentricity 0, and ring radius 20.0.
 
 Each line in the file contains the following data:
