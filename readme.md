@@ -2,7 +2,7 @@
 
 ![EMRI in environment](deformedringwaves.png)
 
-Computational supplementary material for the paper **"Towards relativistic inspirals into black holes surrounded by matter"** by Lukáš Polcar and Vojtěch Witzany (2025), ArXiv: 2507.XXXXX.
+Computational supplementary material for the paper **"Towards relativistic inspirals into black holes surrounded by matter"** by Lukáš Polcar and Vojtěch Witzany (2025), ArXiv: 2507.15720.
 
 ## Repository Contents
 
@@ -58,13 +58,13 @@ The complex amplitudes of the four components of the source in the perturbed geo
 Please lookup the citation key on InspireHEP for bibliographic updates
 
 ```bibtex
-@article{Polcar:2022XXX,
-    author = "Polcar, Luk{\'a}{\v{s}} and and Witzany, Vojt{\v{e}}ch",
+@article{Polcar:2025yto,
+    author = "Polcar, Luk{\'a}{\v{s}} and Witzany, Vojt{\v{e}}ch",
     title = "{Towards relativistic inspirals into black holes surrounded by matter}",
-    eprint = "2507.XXXXX",
+    eprint = "2507.15720",
     archivePrefix = "arXiv",
     primaryClass = "gr-qc",
-    journal = "Submitted to Phys. Rev. D",
+    month = "7",
     year = "2025"
 }
 
